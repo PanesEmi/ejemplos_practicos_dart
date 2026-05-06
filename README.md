@@ -12,7 +12,7 @@ Este repositorio contiene los ejemplos de implementación en **Dart** para la ex
 
 ### 2. Adapter (Adaptador de Objetos)
 *   **Ubicación:** Carpeta `/adapter`
-*   **Problema que resuelve:** 
+*   **Problema que resuelve:** Un programa de reproducción de música desarrollado hace años que solo soporta formatos tradicionales como MP3. El mercado actual exige incluir servicios modernos como Spotify o Apple Music, los cuales tienen sus propias funcionalidades y estructuras de datos más complejas. 
 
 ---
 
